@@ -13,6 +13,16 @@ class IndexController extends Zend_Controller_Action
         // action body
     }
 
+    public function helloAction()
+    {
+    	echo "Hello World";
+    }
+
+    public function goodbyeAction()
+    {
+    	echo "Goodbye World";
+    }
+
 
 }
 

@@ -15,12 +15,12 @@ class IndexController extends Zend_Controller_Action
 
     public function helloAction()
     {
-    	echo "Hello World";
+    	// action body
     }
 
     public function goodbyeAction()
     {
-    	echo "Goodbye World";
+    	// action body
     }
 
 
